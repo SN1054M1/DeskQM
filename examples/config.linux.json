@@ -1,0 +1,7 @@
+{
+  "runs_root": "/data/qm_runs",
+  "orca_cmd": "/opt/orca/orca",
+  "gaussian_cmd": "/opt/g16/g16",
+  "xtb_cmd": "/opt/xtb/xtb",
+  "crest_cmd": "/opt/crest/crest"
+}

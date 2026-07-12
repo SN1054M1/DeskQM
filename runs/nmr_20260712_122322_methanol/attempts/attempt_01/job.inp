@@ -1,0 +1,14 @@
+! SP pbe0 pcSseg-2 TightSCF CPCM(chloroform) NMR
+%pal nprocs 8 end
+%maxcore 2048
+%eprnmr
+  NMRShielding 2
+end
+* xyz 0 1
+O      0.39517      4.38840     -0.00683
+C     -0.50818      3.29837      0.00221
+H     -0.11943      5.18771      0.19752
+H      0.03977      2.38083     -0.22470
+H     -1.27919      3.45664     -0.75583
+H     -0.96616      3.21170      0.99058
+*

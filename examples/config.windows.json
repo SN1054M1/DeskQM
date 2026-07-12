@@ -1,0 +1,7 @@
+{
+  "runs_root": "D:/qm_runs",
+  "orca_cmd": "D:/orca_6_0_1/orca.exe",
+  "gaussian_cmd": "C:/Gaussian16/g16.exe",
+  "xtb_cmd": "D:/xtb/xtb.exe",
+  "crest_cmd": "D:/crest/crest.exe"
+}

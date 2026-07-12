@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "engine": "gaussian",
+  "work_dir": "C:\\Users\\procy\\Desktop\\QM_automation\\runs\\ir_20260712_122323_methanol",
+  "final_xyz": null,
+  "energy_hartree": null,
+  "primary_input": "C:\\Users\\procy\\Desktop\\QM_automation\\runs\\ir_20260712_122323_methanol\\inputs\\job.gjf",
+  "command_file": "C:\\Users\\procy\\Desktop\\QM_automation\\runs\\ir_20260712_122323_methanol\\commands\\gaussian_command.txt",
+  "shell_command_file": "C:\\Users\\procy\\Desktop\\QM_automation\\runs\\ir_20260712_122323_methanol\\commands\\gaussian_command.sh",
+  "powershell_command_file": "C:\\Users\\procy\\Desktop\\QM_automation\\runs\\ir_20260712_122323_methanol\\commands\\gaussian_command.ps1",
+  "command_line": "g16 job.gjf",
+  "stdout_file": "C:\\Users\\procy\\Desktop\\QM_automation\\runs\\ir_20260712_122323_methanol\\logs\\gaussian.stdout.log",
+  "stderr_file": "C:\\Users\\procy\\Desktop\\QM_automation\\runs\\ir_20260712_122323_methanol\\logs\\gaussian.stderr.log",
+  "metadata_file": "C:\\Users\\procy\\Desktop\\QM_automation\\runs\\ir_20260712_122323_methanol\\results\\run_metadata.json",
+  "attempt_count": 1,
+  "message": "Gaussian dry-run 完成，已生成输入文件和命令文件",
+  "dry_run": true
+}

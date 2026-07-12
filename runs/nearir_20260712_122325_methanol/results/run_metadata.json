@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "engine": "orca",
+  "work_dir": "C:\\Users\\procy\\Desktop\\QM_automation\\runs\\nearir_20260712_122325_methanol",
+  "final_xyz": null,
+  "energy_hartree": null,
+  "primary_input": "C:\\Users\\procy\\Desktop\\QM_automation\\runs\\nearir_20260712_122325_methanol\\attempts\\attempt_01\\job.inp",
+  "command_file": "C:\\Users\\procy\\Desktop\\QM_automation\\runs\\nearir_20260712_122325_methanol\\commands\\orca_attempt_01.txt",
+  "shell_command_file": "C:\\Users\\procy\\Desktop\\QM_automation\\runs\\nearir_20260712_122325_methanol\\commands\\orca_attempt_01.sh",
+  "powershell_command_file": "C:\\Users\\procy\\Desktop\\QM_automation\\runs\\nearir_20260712_122325_methanol\\commands\\orca_attempt_01.ps1",
+  "command_line": "orca job.inp",
+  "stdout_file": "C:\\Users\\procy\\Desktop\\QM_automation\\runs\\nearir_20260712_122325_methanol\\logs\\orca.stdout.log",
+  "stderr_file": "C:\\Users\\procy\\Desktop\\QM_automation\\runs\\nearir_20260712_122325_methanol\\logs\\orca.stderr.log",
+  "metadata_file": "C:\\Users\\procy\\Desktop\\QM_automation\\runs\\nearir_20260712_122325_methanol\\results\\run_metadata.json",
+  "attempt_count": 1,
+  "message": "ORCA dry-run 完成，已生成输入文件和命令文件",
+  "dry_run": true
+}
